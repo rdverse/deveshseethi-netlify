@@ -12,7 +12,7 @@ An Explainable-AI approach for Diagnosis of COVID-19 using MALDI-ToF Mass Spectr
 CovidAlert - A Wristwatch-based System to Alert Users from Face Touching   
 15th EAI International Conference on Pervasive Computing Technologies for Healthcare Nov 2021  
 Mrinmoy Roy, **Venkata Devesh Reddy Seethi**, Rami Lake, Pratool Bharti      
-[publication](https://link.springer.com/chapter/10.1007/978-3-030-99194-4_30) [preprint]()
+[publication](https://link.springer.com/chapter/10.1007/978-3-030-99194-4_30) [preprint](https://arxiv.org/abs/2112.00131)
 
 
 MALDI-ToF Protein Profiling as a Potential Rapid Diagnostic Platform for COVID-19  
@@ -31,6 +31,10 @@ IEEE International Workshop on Deep Learning on Edge for Smart Health and Well-b
 [publication](https://ieeexplore.ieee.org/document/9239671)
 
 
+Analyzing Twitter Bot Activity on Academic Articles  
+11th International Conference on Social Media & Society, Jan 2020   
+Ashiqur Rahman, **Venkata Devesh Reddy Seethi**, Simon Shulgan, Rui Zhang, Ehsan Mohammadi, Hamed Alhoori    
+[preprint](https://alhoori.github.io/publications/ashiqur-2020-bots.pdf)
 
 When Illinois Students Leave The State For College, Who Reaps The Rewards?  
 National Public Radio, Aug 2019  
