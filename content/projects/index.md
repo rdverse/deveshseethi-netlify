@@ -1,7 +1,7 @@
 ---
 eleventyExcludeFromCollections: true
 layout: page.njk
-title: Why
+title: Projects
 ---
 
 You can put your own page here.

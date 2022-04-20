@@ -2,7 +2,7 @@ require("dotenv").config();
 
 module.exports = {
     // Website title, shown in left sidebar and in page title
-    title: "{ rené.winkelmeyer }",
+    title: "{Devesh.Seethi}",
     // Site URL to generate absolute URLs. Used across the board.
     url: process.env.URL || "http://localhost:8080",
     // Profile image for left sidebar
@@ -20,7 +20,7 @@ module.exports = {
     // GitHub ID (optional, remove it not needed), used for link in the left sidebar
     socialGitHub: "rdverse",
     // LinkedIn ID  (optional, remove it not needed), used for link in the left sidebar
-    socialLinkedIn: "deveshreddy27",
+    socialLinkedIn: "devesh-reddy",
     // Twitter ID  (optional, remove it not needed), used for link in the left sidebar, and for OpenGraph sharing information
     socialTwitter: "ReDevVerse",
     // YouTube ID/Channel  (optional, remove it not needed), used for link in the left sidebar

@@ -1,7 +1,7 @@
 <div id="sidebar-contents" class="dark:bg-sidebar-dark bg-sidebar-light grid-cols-1 gap-4 pt-8 h-screen grid w-56 xl:w-72">
     <div>
         <a href="/">
-            <img alt="{{ siteconfig.imageAlt }}" src="{{ siteconfig.image }}" class="rounded-full h-36 border dark:border-gray-100 border-indigo-600" height="144px" width="144px" />
+            <img alt="{{ siteconfig.imageAlt }}" src="{{ siteconfig.image }}" class="border dark:border-gray-100 border-indigo-600" height="244px" width="244px" />
         </a>
         <div class="text-center font-semibold pt-6 text-gray-400">
             <a href="/" class="mx-auto">{{ siteconfig.title }}</a>
@@ -12,18 +12,27 @@
     </div>
     <div class="menu">
         <ul class="list-none pl-0">
+        
             <li class="navitem text-center uppercase {{ page.url | isHomeLink('/') }}">
+                <a href="/me/" class="block no-underline">About me</a>
+            </li>
+            
+            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/why') }}">
+                <a href="/publications/" class="block no-underline">Publications</a>
+            </li>
+            
+            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/projects') }}">
+                <a href="/projects/" class="block no-underline">Projects</a>
+            </li>
+
+            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/Posts') }}">
                 <a href="/" class="block no-underline">Posts</a>
             </li>
-            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/who') }}">
-                <a href="/who/" class="block no-underline">Who</a>
-            </li>
-            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/why') }}">
-                <a href="/why/" class="block no-underline">Why</a>
-            </li>
+
             <li class="navitem text-center uppercase {{ page.url | isActiveLink('/archive') }}">
                 <a href="/archive/" class="block no-underline">Archive</a>
             </li>
+        
         </ul>
     </div>
     <div class="row-end-5 grid grid-cols-3 xl:grid-cols-6 gap-5 mx-auto place-content-end mb-12">
