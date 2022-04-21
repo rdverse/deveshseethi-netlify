@@ -5,7 +5,7 @@ title: Publications
 ---
 
 
-# Journal
+# Journal Papers
 
 An Explainable-AI approach for Diagnosis of COVID-19 using MALDI-ToF Mass Spectrometry   
 (under review)   
@@ -18,7 +18,7 @@ Prajkta Chivte, Zane LaCasse, **Venkata Devesh Reddy Seethi**, Pratool Bharti, J
 [publication](https://pubmed.ncbi.nlm.nih.gov/34518823/)  
 
 
-# Conference 
+# Conference Papers
 
 CovidAlert - A Wristwatch-based System to Alert Users from Face Touching   
 15th EAI International Conference on Pervasive Computing Technologies for Healthcare Nov 2021  
