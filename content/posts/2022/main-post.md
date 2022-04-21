@@ -1,6 +1,6 @@
 ---
-title: Your first amazing blog post
-date: 2021-01-27
+title: Pytorch optimization using Intel OpenVino
+date: 2022-04-20
 image: /assets/images/2021/coolimage.jpg
 ---
 
