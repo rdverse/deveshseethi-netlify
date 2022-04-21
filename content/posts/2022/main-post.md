@@ -3,6 +3,7 @@ title: Pytorch optimization using Intel OpenVino
 date: 2022-04-20
 image: /assets/images/2021/coolimage.jpg
 ---
+asdf
 <!-- 
 This is your first blog post. And it can contain a lot of stuff. So let's go through a few things.
 
