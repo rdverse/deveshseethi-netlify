@@ -1,9 +1,9 @@
 ---
 title: Pytorch optimization using Intel OpenVino
 date: 2022-04-20
-image: /assets/images/2021/coolimage.jpg
+# image: /assets/images/2021/coolimage.jpg
 ---
-
+<!-- 
 This is your first blog post. And it can contain a lot of stuff. So let's go through a few things.
 
 ## Code for fun or profit
@@ -47,4 +47,4 @@ Note: never ever add a first level heading (aka: `h1`) to your page. This will b
 
 ## Other stuff
 
-As to be expected you can do all the things that are _standard_ Markdown. So tables, blockquotes etc. And if you prefer to add custom Markdown functionality, just extend the configuration with custom [markdown-it](https://github.com/markdown-it/markdown-it) plugins.
+As to be expected you can do all the things that are _standard_ Markdown. So tables, blockquotes etc. And if you prefer to add custom Markdown functionality, just extend the configuration with custom [markdown-it](https://github.com/markdown-it/markdown-it) plugins. -->
