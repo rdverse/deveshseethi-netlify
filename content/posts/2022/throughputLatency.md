@@ -4,7 +4,7 @@ date: 2022-04-30
 image: /assets/images/2021/coolimage.jpg
 ---
 
-Coming up soon!
+Currently working on this post!
 
 Throught put in simplest terms means the number of data samples processed in a given time. We are concerened about throughput when we want to process large amount of data in a given period of time. One can maximize throughput by processing batches of input data and equip the resources exhaustively to maximize data processed per unit time. For example, during testing, if the dataset has a large number of data samples, a high throughput becomes favorable to save time.
 
