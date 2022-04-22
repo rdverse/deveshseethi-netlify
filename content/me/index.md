@@ -59,9 +59,9 @@ d3.json("/assets/data/jazz.json", function(error, graph) {
 });
 </script>
 
-Please find my [resume](/assets/pdfs/DeveshSeethiResume.pdf?target=_blank) and [CV](/assets/pdfs/DeveshSeethCV.pdf?target=_blank) for a detailed account of my skill-set and my projects.   
+Please find my [resume](/assets/pdfs/DeveshSeethiResume.pdf) and [CV](/assets/pdfs/DeveshSeethCV.pdf) for a detailed account of my skill-set and my projects.   
 
-I have a go-getter personality, and I get things done. I enjoy getting engaged in challenging and open-ended problems to explore new paradigms of AI. I can quickly adapt to any environment and consume knowledge swiftly and build practical solutions. My flexibility in learning is a bi-product of coming from a mix of computer science and electronics background. Additionally, my active research area involves leveraging AI algorithms to solve real-world problems in disease diagnostics and improve general public health, which is essentially multi-disciplinary research. I have experience in multi-disciplinary AI research with departments such as Chemistry and Behavioral and Aging Studies, where I seamlessly understood the problem,  identified, and probed critical AI-related aspects of the study. It is delightful to work in teams and I am also self-driven where my recipe for productivity is to generate critique, fine-tune/ debug methods, iterate and explore.   
+I have a go-getter personality, and I get things done. I enjoy getting engaged in challenging and open-ended problems to explore new paradigms of AI. I can quickly adapt to any environment and consume knowledge swiftly and build practical solutions. My flexibility in learning is a bi-product of my background in a mix of computer science and electronics. Additionally, my active research area involves leveraging AI algorithms to solve real-world problems in disease diagnostics and improve general public health, which is essentially multi-disciplinary research. I have experience in multi-disciplinary AI research with departments such as Chemistry and Behavioral and Aging Studies, where I seamlessly understood the problem,  identified, and probed critical AI-related aspects of the study. It is delightful to work in teams and I am also self-driven where my recipe for productivity is to generate critique, fine-tune/ debug methods, iterate and explore.   
 
 My research so far has shown me the importance of AI in healthcare, which motivates me to improve the efficiency of existing deep learning models such as multimodal data such as vision, language, speech, and inertial sensors. I am also passionate about optimizing the algorithms and fine-tuning their performance to different hardware resources to make the solutions pervasive and bring a balance between accessibility and practicality.  
 
@@ -78,7 +78,7 @@ My research during masters included building machine learning and neural network
 
 
 ### Bachelors in Electronics and Communication Engineering     
-I worked on several projects relating to internet of things and embedded systems. I also interned at a defense research institution where I learned on how new embedded systems are tested and designed for integrating into systems at scale. I also got exposure to several professional organizations that are delineated in my Linkedin profil.   
+I worked on several projects relating to internet of things and embedded systems. I also interned at a defense research institution where I learned on how new embedded systems are tested and designed for integrating into systems at scale. I also got exposure to several professional organizations that are delineated in my Linkedin profile.   
 
 
 ### Hobbies  
