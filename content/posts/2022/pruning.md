@@ -1,6 +1,6 @@
 ---
 title: Pruning
-date: 2022-04-25
+date: 2022-05-14
 image: /assets/images/2021/coolimage.jpg
 ---
 
