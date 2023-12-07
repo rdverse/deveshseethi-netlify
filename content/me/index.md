@@ -69,7 +69,7 @@ My research so far has shown me the importance of AI in healthcare, which motiva
 ## Research Interests 
 
 ### PhD in Computer Science
-Advisor : [Dr. Pratool Bharti](https://pratoolbharti.github.io/NIU/)     
+Advisor : [Dr. Hamed Alhoori](https://alhoori.github.io/)     
 My primary research includes leveraging AI to solve public health issues and build disease diagnostic models. I am currently working on building frameworks capable of detecting activity levels and behavioral patterns from cameras and subsequently using multimodal data from sensors and audio. My focus is mainly on computer vision and multimodal algorithms relating to panoptic segmentation, person re-identifaction, and point-of-interest tracking. The final outcome of the research is to build an effecient and optimized framework that healthcare facilities either small or large are able to leverage our proposed framework for extended periods with their hardware resources. In the last year, I worked on developing an AI solution for COVID-19 testing using explainable-AI techniques that give clinicians the ability to understand the biomarkers the . Thus reinforcing trust in our AI-model and providing a scope to dynamically understand the effects 
   
 
